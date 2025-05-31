@@ -1,2 +1,3 @@
 Name: HUYNH DUY DANG  
 Interests: Coding, Design
+Skills: HTML, CSS, Git
